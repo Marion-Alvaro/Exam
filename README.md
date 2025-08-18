@@ -1,12 +1,15 @@
 Technical Exam
+
 Build a Full-Stack Web Application with Authentication & CRUD Operation
 
 How It's Made:
+
 Tech used: ReactJS, NodeJS/Express, XAMPP (MySQL)
 
 Frontend was made using ReactJS with Tailwind CSS to achieve a secure and responsive UI/UX, for Backend NodeJS/Express for verfying, comparing, checking authentication and tokens, as for XAMPP (MySQL) it is used for the database connection and saving the inputs from the front end
 
 Improvements:
+
 CRUD Operations was not implemented properly as it was having troubles with it
 Deployment to test if it is working live
 
