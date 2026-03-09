@@ -30,7 +30,7 @@ id click on auto increment and primary key, as for username, email and password 
 
 Clone repository then open through VS Code
 
-Once, VS Code is open kinly pull up terminal and add another terminal. The first terminal you will have to type cd web, npm install -D tailwindcss@3, npm install axios 
+Once, VS Code is open kindly pull up terminal and add another terminal. The first terminal you will have to type cd web, npm install -D tailwindcss@3, npm install axios 
 react-router-dom tailwindcss postcss autoprefixer.
 
 The second terminal type cd server and npm start.
